@@ -1,4 +1,4 @@
-# Avatar Overlay
+﻿# Avatar Overlay
 
 **A transparent, always-on-top overlay that shows your VRChat avatar (Spout output) on your Windows screen.**
 **VRChat 아바타(Spout 출력)를 투명한 항상-위 오버레이로 화면에 띄우는 Windows 프로그램.**
@@ -6,7 +6,7 @@
 
 ## Download / 다운로드 / ダウンロード
 
-Get the latest zip from **[Releases](https://github.com/PABURI/avatar-overlay/releases)**, unzip, and run `AvatarOverlay.exe`.
+Get the latest zip from **[Releases](https://github.com/PABURI/Avatar-Overlay/releases)**, unzip, and run `AvatarOverlay.exe`.
 Usage guide: [`AvatarOverlay/README.txt`](AvatarOverlay/README.txt) (English / 한국어 / 日本語).
 The file is not code-signed, so Windows SmartScreen may show a warning ("More info" > "Run anyway").
 
