@@ -1,0 +1,4 @@
+build/
+releases/*.zip
+AvatarOverlay/AvatarOverlay.exe
+AvatarOverlay/*.ini
