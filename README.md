@@ -1,4 +1,4 @@
-﻿# Avatar Overlay
+# Avatar Overlay
 
 **A transparent, always-on-top overlay that shows your VRChat avatar (Spout output) on your Windows screen.**
 **VRChat 아바타(Spout 출력)를 투명한 항상-위 오버레이로 화면에 띄우는 Windows 프로그램.**
