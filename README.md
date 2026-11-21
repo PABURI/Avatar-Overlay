@@ -1,9 +1,29 @@
 # Avatar Overlay
 
-VRChat 아바타(Spout 출력)를 투명한 항상-위 오버레이로 화면에 띄우는 Windows 프로그램.
-사용자용 설명은 `AvatarOverlay\README.txt` (영어 / 한국어 / 日本語).
+**A transparent, always-on-top overlay that shows your VRChat avatar (Spout output) on your Windows screen.**
+**VRChat 아바타(Spout 출력)를 투명한 항상-위 오버레이로 화면에 띄우는 Windows 프로그램.**
+**VRChatのアバター(Spout出力)を透過の最前面オーバーレイとして画面に表示するWindowsアプリ。**
 
-VRChat은 VRChat Inc.의 상표이며, 이 프로젝트는 VRChat과 관련 없는 비공식 도구입니다.
+## Download / 다운로드 / ダウンロード
+
+Get the latest zip from **[Releases](https://github.com/PABURI/avatar-overlay/releases)**, unzip, and run `AvatarOverlay.exe`.
+Usage guide: [`AvatarOverlay/README.txt`](AvatarOverlay/README.txt) (English / 한국어 / 日本語).
+The file is not code-signed, so Windows SmartScreen may show a warning ("More info" > "Run anyway").
+
+## Features / 기능 / 機能
+
+- Transparent avatar overlay from VRChat's Spout output, always on top, clicks pass through / 투명 아바타 오버레이, 항상 위, 클릭 통과
+- Drag to move, mouse wheel to resize, snap to screen edges and corners (hotkey to cycle corners) / 이동, 크기 조절, 모서리 붙이기
+- Flip vertical / horizontal, fade on mouse hover / 상하·좌우 반전, 마우스를 올리면 반투명
+- GPU rendering, low CPU usage, up to 90 fps / GPU 렌더링, 낮은 CPU 사용
+- Optional "exit when VRChat closes" / VRChat 종료 시 함께 종료 옵션
+- English / 한국어 / 日本語 UI
+
+Keywords: VRChat, Spout, Spout2, overlay, avatar, Windows, DirectX 11.
+
+## Notice
+
+VRChat은 VRChat Inc.의 상표이며, 이 프로젝트는 VRChat과 관련 없는 비공식 도구입니다. (VRChat is a trademark of VRChat Inc. This is an unofficial tool, not affiliated with VRChat.)
 이 프로그램은 VRChat이 공식 기능으로 내보내는 Spout 영상만 받아서 표시하고, VRChat 클라이언트를 수정하거나 접근하지 않습니다.
 
 ## 라이선스
